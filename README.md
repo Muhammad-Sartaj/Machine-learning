@@ -1,2 +1,3 @@
 # Machine-learning
-machine learning algorithms is implemented in this repository
+This repository contain all machine learning algorithms along with datasets for practice 
+you can learn Machine learning in simple and easiest way if you want.
